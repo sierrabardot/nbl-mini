@@ -1,12 +1,12 @@
 <template>
   <header>
-    <nuxt-link to="/" class="logo">Nuxt App</nuxt-link>
+    <nuxt-link to="/" class="logo">NBL Mini</nuxt-link>
 
     <nav>
       <ul>
         <li><nuxt-link to="/">Home</nuxt-link></li>
         <li><nuxt-link to="stats">Stats</nuxt-link></li>
-        <li><nuxt-link to="/about">About</nuxt-link></li>
+        <li><nuxt-link to="/teams">Teams</nuxt-link></li>
       </ul>
     </nav>
   </header>
@@ -21,7 +21,7 @@ export default {
 
 <style>
   header {
-    background: rgb(0, 219, 146);
+    background: rgb(105, 170, 255);
     display: grid;
     grid-template-columns: repeat(2, auto);
   }

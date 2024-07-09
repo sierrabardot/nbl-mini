@@ -1,0 +1,94 @@
+{
+  "teams": [
+    {
+      "name": "Adelaide 36ers",
+      "players": [
+        { "name": "Dejan Vasiljevic", "jersey_number": 34 },
+        { "name": "Jason Cadee", "jersey_number": 5 },
+        { "name": "Mitch McCarron", "jersey_number": 10 },
+        { "name": "Anthony Drmic", "jersey_number": 3 }
+      ]
+    },
+    {
+      "name": "Brisbane Bullets",
+      "players": [
+        { "name": "Nathan Sobey", "jersey_number": 20 },
+        { "name": "Harry Froling", "jersey_number": 8 },
+        { "name": "Lamar Patterson", "jersey_number": 13 },
+        { "name": "Jason Cadee", "jersey_number": 5 }
+      ]
+    },
+    {
+      "name": "Cairns Taipans",
+      "players": [
+        { "name": "Scott Machado", "jersey_number": 0 },
+        { "name": "Majok Deng", "jersey_number": 13 },
+        { "name": "Mirko Djeric", "jersey_number": 11 },
+        { "name": "Nathan Jawai", "jersey_number": 15 }
+      ]
+    },
+    {
+      "name": "Illawarra Hawks",
+      "players": [
+        { "name": "Tyler Harvey", "jersey_number": 1 },
+        { "name": "Justinian Jessup", "jersey_number": 10 },
+        { "name": "Sam Froling", "jersey_number": 20 },
+        { "name": "AJ Ogilvy", "jersey_number": 6 }
+      ]
+    },
+    {
+      "name": "Melbourne United",
+      "players": [
+        { "name": "Chris Goulding", "jersey_number": 43 },
+        { "name": "Jo Lual-Acuil Jr.", "jersey_number": 0 },
+        { "name": "Shea Ili", "jersey_number": 2 },
+        { "name": "David Barlow", "jersey_number": 20 }
+      ]
+    },
+    {
+      "name": "New Zealand Breakers",
+      "players": [
+        { "name": "Tom Abercrombie", "jersey_number": 10 },
+        { "name": "Corey Webster", "jersey_number": 11 },
+        { "name": "Finn Delany", "jersey_number": 3 },
+        { "name": "Rob Loe", "jersey_number": 21 }
+      ]
+    },
+    {
+      "name": "Perth Wildcats",
+      "players": [
+        { "name": "Bryce Cotton", "jersey_number": 11 },
+        { "name": "Mitch Norton", "jersey_number": 8 },
+        { "name": "Todd Blanchfield", "jersey_number": 12 },
+        { "name": "John Mooney", "jersey_number": 33 }
+      ]
+    },
+    {
+      "name": "South East Melbourne Phoenix",
+      "players": [
+        { "name": "Mitch Creek", "jersey_number": 55 },
+        { "name": "Kyle Adnam", "jersey_number": 7 },
+        { "name": "Keifer Sykes", "jersey_number": 28 },
+        { "name": "Reuben Te Rangi", "jersey_number": 15 }
+      ]
+    },
+    {
+      "name": "Sydney Kings",
+      "players": [
+        { "name": "Jarell Martin", "jersey_number": 21 },
+        { "name": "Xavier Cooks", "jersey_number": 12 },
+        { "name": "Shaun Bruce", "jersey_number": 7 },
+        { "name": "Craig Moller", "jersey_number": 9 }
+      ]
+    },
+    {
+      "name": "Tasmania JackJumpers",
+      "players": [
+        { "name": "Josh Adams", "jersey_number": 23 },
+        { "name": "Josh Magette", "jersey_number": 11 },
+        { "name": "Fabijan Krslovic", "jersey_number": 25 },
+        { "name": "Clint Steindl", "jersey_number": 35 }
+      ]
+    }
+  ]
+}

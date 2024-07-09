@@ -6,8 +6,9 @@
 </template>
 
 <script>
-import Nav from './partials/nav'
+import Nav from '../components/Nav'
 export default {
+  name: 'app',
   components: {
     Nav
   }
